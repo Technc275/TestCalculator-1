@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="Calculator.cs" />
     <Compile Include="Inputer.cs" />
+    <Compile Include="MyElement.cs" />
     <Compile Include="Outputer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
